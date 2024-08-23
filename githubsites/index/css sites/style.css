@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400vh;
+    margin-top: 200px;
+    background-color: black;
+}
+
+.box input{
+    color: red;
+    background-color: aqua;
+    text-align: center;
+}
+
+.box button{
+    width: 173px;
+    background-color: red;
+}
